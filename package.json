@@ -5,18 +5,18 @@
   "main": "out/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sneezry/vscode-express.git"
+    "url": "git+https://github.com/VSChina/vscode-express.git"
   },
   "keywords": [
     "vscode",
     "express"
   ],
-  "author": "Zhe Li",
+  "author": "Microsoft",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Sneezry/vscode-express/issues"
+    "url": "https://github.com/VSChina/vscode-express/issues"
   },
-  "homepage": "https://github.com/Sneezry/vscode-express#readme",
+  "homepage": "https://github.com/VSChina/vscode-express#readme",
   "scripts": {
     "compile": "tsc -p ./",
     "check": "gts check",
